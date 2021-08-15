@@ -1,23 +1,5 @@
 [
 	{
-		"id": "1",
-		"name": "Airpods Wireless Bluetooth Headphones",
-		"description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working",
-		"price": 89.99
-	},
-	{
-		"id": "2",
-		"name": "iPhone 11 Pro 256GB Memory",
-		"description": "Introducing the iPhone 11 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
-		"price": 599.99
-	},
-	{
-		"id": "3",
-		"name": "Cannon EOS 80D DSLR Camera",
-		"description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
-		"price": 929.99
-	},
-	{
 		"id": "4",
 		"name": "Sony Playstation 4 Pro White Version",
 		"description": "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
@@ -28,5 +10,47 @@
 		"name": "Logitech G-Series Gaming Mouse",
 		"description": "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
 		"price": 49.99
+	},
+	{
+		"id": "60cee44e-81d1-418d-8e6b-c6448b0db2f6",
+		"title": "Test product",
+		"description": "This is my product",
+		"price": 100
+	},
+	{
+		"id": "3c3317b6-0542-4d01-a59e-b6a365e8778e",
+		"title": "Test product",
+		"description": "This is my product",
+		"price": 100
+	},
+	{
+		"id": "ffb5d5a1-ea6a-4b14-b4f2-8990db9cdd45",
+		"title": "Test product",
+		"description": "This is my product",
+		"price": 100
+	},
+	{
+		"id": "2efac8c8-5a56-408d-9d2b-b4164016388b",
+		"title": "Test product",
+		"description": "This is my product",
+		"price": 100
+	},
+	{
+		"id": "90878d92-1aec-4cc6-a52e-b98796b61420",
+		"title": "Manish product",
+		"description": "lorem ipsum",
+		"price": 100.1
+	},
+	{
+		"id": "c5faeaf8-b495-4fa7-a3cb-86979d38a601",
+		"title": "Manish's product",
+		"description": "lorem ipsum",
+		"price": 100.1
+	},
+	{
+		"id": "e33fee6a-d13e-445a-b1ad-ea8dce49e7d6",
+		"title": "Manish's product",
+		"description": "lorem ipsum",
+		"price": 10.1
 	}
 ]
